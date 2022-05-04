@@ -1,62 +1,92 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/KayLemba-blueviolet)
 
-# Project Name
+# Hello React Front End app
 
-> Description the project.
+> Hello React Front End app is simple application that contains setup of react application. The greeting page loads a random greeting from API on every page load.
 
+## Preview
+
+### Home Page
+
+![screenshot](./src/assets/home.png)
+
+### Greeting Page
+
+![screenshot](./src/assets/greeting.png)
+
+
+## Link to the back end
+
+[Hello Rails back end](https://github.com/KayLemba/hello-rails-backend)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- JavaScript
+- REACT
+- Redux
+- Webpack
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
+- A text editor(preferably Visual Studio Code)
+- Node
+- Web browser
 
 ### Install
+- [Git](https://git-scm.com/downloads)
+- [Node](https://nodejs.org/en/download/)
 
-### Usage
+### Using it Locally
 
-### Run tests
+- Clone the project
 
-### Deployment
+```bash 
+git clone https://github.com/KayLemba/hello-react-front-end.git
+
+cd hello-react-front-end
+```
+
+- Install dependencies
+
+```bash
+npm i 
+or
+npm install
+```
+
+- To Start the development server
+```bash
+npm start
+```
 
 
+## Visit And Open Files
+
+[Visit Repo](https://github.com/KayLemba/hello-react-front-end.git)
+
+## Download Repo
+
+[Download Repo](https://github.com/KayLemba/hello-react-front-end.git)
 
 ## Authors
 
-👤 **Author1**
+👤 **Kalolo Chola Lemba**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@KayLemba](https://github.com/KayLemba)
+- Twitter: [@King-Kaylo1](https://twitter.com/King_Kaylo1) 
+- LinkedIn: [@kalolo-lemba](https://www.linkedin.com/in/https://www.linkedin.com/in/kalolo-lemba)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/KayLemba/hello-react-front-end/issues).
 
 ## Show your support
 
@@ -64,10 +94,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration: Microverse
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
